@@ -13,6 +13,14 @@
   border-spacing: 0;
 }
 
+.sales-table thead th:first-of-type {
+  padding-left: 30px;
+}
+
+.sales-table tbody td:first-of-type {
+  padding-left: 30px;
+}
+
 .sales-table thead th {
   text-align: left;
   height: 55px;
